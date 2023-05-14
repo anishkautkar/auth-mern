@@ -3,6 +3,10 @@
 ## Overview
 This documentation provides an overview of SecureAauth, a web application for login and registration developed using the MERN stack.
 
+![image](https://github.com/anishkautkar/auth-mern/assets/95934673/a9bee41b-8e7f-4e9d-8615-6d57b3b26ecd)
+![image](https://github.com/anishkautkar/auth-mern/assets/95934673/4638b527-38e9-4af0-942c-7f3dcb96c2c0)
+
+
 ## Technologies Used
 - **MERN Stack**: MongoDB, Express.js, React.js, and Node.js.
 - **JSON Web Token (JWT)**: Used for authentication and token-based authorization.
