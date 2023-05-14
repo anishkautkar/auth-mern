@@ -1,7 +1,7 @@
-# Web Application Documentation
+# SecureAuth: MERN WebApp with JWT Authentication
 
 ## Overview
-This documentation provides an overview of the web application for login and registration developed using the MERN stack.
+This documentation provides an overview of SecureAauth, a web application for login and registration developed using the MERN stack.
 
 ## Technologies Used
 - **MERN Stack**: MongoDB, Express.js, React.js, and Node.js.
